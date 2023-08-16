@@ -1,4 +1,3 @@
-# Seventh project - Building a Weather Data REST API
 from flask import Flask, render_template
 import pandas as pd
 
