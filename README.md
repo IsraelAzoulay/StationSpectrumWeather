@@ -1,6 +1,6 @@
 ## WeatherRESTful API
 
-WeatherRESTful API is a Flask-based web application that provides access to temperature data from various weather stations around the world. The application allows users to fetch temperature readings for specific dates, all dates, or based on a specific year for a given station.
+WeatherRESTful API is a Flask-based web application that provides access to temperature data from various weather stations around the world. The application allows you to fetch temperature readings for specific dates, all dates, or based on a specific year for a given station.
 
 ## Features
 
