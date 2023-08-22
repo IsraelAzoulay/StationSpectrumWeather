@@ -18,16 +18,16 @@ Ensure you have the following installed on your local machine:
 
 ## Installation & Usage
 
-# Clone the repository:
+1. Clone the repository:
 git clone https://github.com/IsraelAzoulay/WeatherRESTful-API.git
 
-# Navigate to the project directory:
+2. Navigate to the project directory:
 cd WeatherRESTful-API
 
-# Install the necessary dependencies:
+3. Install the necessary dependencies:
 pip install -r requirements.txt
 
-# Run the Flask application:
+4. Run the Flask application:
 python main.py
 
 Once the server is running, open your browser and visit http://127.0.0.1:5000/ to access the application.
