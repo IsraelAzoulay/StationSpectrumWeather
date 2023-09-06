@@ -19,7 +19,7 @@ Ensure you have the following installed on your local machine:
 ## Installation & Usage
 
 1. Clone the repository:
-git clone https://github.com/IsraelAzoulay/WeatherRESTful-API.git
+git clone https://github.com/IsraelAzoulay/station-spectrum-weather.git
 
 2. Navigate to the project directory:
 cd WeatherRESTful-API
